@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Information_D1</string>
+    <string name="hint_name">Enter the Name</string>
+    <string name="enter_your_age">Enter your Age ..</string>
+</resources>
